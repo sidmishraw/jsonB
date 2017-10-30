@@ -16,8 +16,6 @@ jsonB is a JSON beautifier for JSON files opened in Google Chrome.
 
 * Drag and drop any JSON file into the Google chrome browser and then click on the `jsonB` extension's button. The JSON content will be beautified :)
 
-![](https://gfycat.com/ifr/UnripeInfantileArgentineruddyduck)
-
-<iframe src='https://gfycat.com/ifr/UnripeInfantileArgentineruddyduck' frameborder='0' scrolling='no' width='1028' height='710' allowfullscreen></iframe>
+![](https://giant.gfycat.com/UnripeInfantileArgentineruddyduck.webm)
 
 `- Sid`
