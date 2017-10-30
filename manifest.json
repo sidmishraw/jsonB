@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "jsonB",
+  "description": "This JSON allows you to format the JSON contents that you loaded into the chrome browser to view.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "scripts": [
+      "jquery-3.2.1.min.js",
+      //"processjson.js",
+      "jsonB.js"
+    ],
+    "persistent": false
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
