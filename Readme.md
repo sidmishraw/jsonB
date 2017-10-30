@@ -18,4 +18,6 @@ jsonB is a JSON beautifier for JSON files opened in Google Chrome.
 
 ![](https://gfycat.com/ifr/UnripeInfantileArgentineruddyduck)
 
+<iframe src='https://gfycat.com/ifr/UnripeInfantileArgentineruddyduck' frameborder='0' scrolling='no' width='1028' height='710' allowfullscreen></iframe>
+
 `- Sid`
